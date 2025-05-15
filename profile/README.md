@@ -16,7 +16,7 @@ We build a wearable device data network based on the DePIN architecture that all
 ### Devices And Data
 | Product Name          | Description                                                                 | GitHub Repo                                | Documentation                                 |
 |---------------------  |-----------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------|
-| **​MedAssets--Link-SDK** |  Cross-platform SDK for wearables, enabling hardware fingerprinting, local data encryption, and seamless integration with MedAssets protocols. | [Repo](https://github.com/MedAssetsproject/-MedAssets--Link-SDK) | Coming Soon|
+| **​MedAssets--Link-SDK** |  Cross-platform SDK for wearables, enabling hardware fingerprinting, local data encryption, and seamless integration with MedAssets protocols. | [Repo](https://github.com/MedAssetsproject/MedAssets--Link-SDK) | Coming Soon|
 | **​MedAssets--NFTs** |  ERC-1155 tokens representing granular health data ownership (e.g., "Heart Rate 2023-Q3"), allowing fractionalized data trading. | [Repo](https://github.com/MedAssetsproject/MedAssets--NFTs) | Coming Soon |
 | **​MedAssets--Fusion** |Privacy-preserving toolset for combining wearable data with external datasets (location, genomics) to create high-value AI-ready bundles. | Coming Soon | Coming Soon |
 
