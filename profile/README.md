@@ -18,4 +18,4 @@ We build a wearable device data network based on the DePIN architecture that all
 
 
 ## License
-This project is licensed under the [Apache License 2.0](https://github.com/iotexproject/iotex-core/blob/master/LICENSE).
+This project is licensed under the [[Apache License 2.0](https://github.com/MedAsset/.github/blob/main/LICENSE).
